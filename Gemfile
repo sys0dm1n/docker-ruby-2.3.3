@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.3.3'
+ruby '2.4.2'
 
 gem 'rails'
 
@@ -17,7 +17,7 @@ group :default do
   gem 'builder'
   gem 'bundle'
   gem 'bundler'
-  gem 'cmdparse', "~> 2.0.6"
+  gem 'cmdparse', "2.0.6"
   gem 'coderay'
   gem 'commonjs'
   gem 'compressor'

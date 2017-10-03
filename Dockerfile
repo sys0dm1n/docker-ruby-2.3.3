@@ -1,4 +1,4 @@
-FROM ruby:2.3.3
+FROM ruby:2.4.2
 
 LABEL maintainer="alain.chemaly@keeward.com" \
       description="Guard-sass and Juicer"
