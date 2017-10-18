@@ -1,6 +1,6 @@
 FROM ruby:2.4.2
 
-LABEL maintainer="alain.chemaly@keeward.com" \
+LABEL maintainer="sys0dm1n" \
       description="Guard-sass and Juicer"
 
 RUN gem update --system && gem install guard guard-sass guard-process sass juicer
